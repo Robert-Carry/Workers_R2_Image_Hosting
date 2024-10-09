@@ -316,7 +316,7 @@ function buildUploadHTML() {
       <head>
           <meta charset="UTF-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Global Cloud Image hosting - Free Image hosting</title>
+          <title>Image hosting</title>
           <style> 
           body {
             font-family: Arial, sans-serif;
